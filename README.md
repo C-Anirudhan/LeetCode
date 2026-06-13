@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/C-Anirudhan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
@@ -33,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/C-Anirudhan/LeetCode/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

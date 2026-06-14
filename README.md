@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/C-Anirudhan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/C-Anirudhan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
+| [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/C-Anirudhan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

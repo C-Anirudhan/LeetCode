@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/C-Anirudhan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/C-Anirudhan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
 |  |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Dynamic Programming
 |  |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
+| [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
@@ -68,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/C-Anirudhan/LeetCode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

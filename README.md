@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/C-Anirudhan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/C-Anirudhan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/C-Anirudhan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0414-third-maximum-number) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/C-Anirudhan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/C-Anirudhan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/C-Anirudhan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/C-Anirudhan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0414-third-maximum-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |

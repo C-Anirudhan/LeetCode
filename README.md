@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/C-Anirudhan/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0414-third-maximum-number) |
+| [0447-number-of-boomerangs](https://github.com/C-Anirudhan/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0485-max-consecutive-ones](https://github.com/C-Anirudhan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/C-Anirudhan/LeetCode/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/C-Anirudhan/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
+| [0447-number-of-boomerangs](https://github.com/C-Anirudhan/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/C-Anirudhan/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
+| [0447-number-of-boomerangs](https://github.com/C-Anirudhan/LeetCode/tree/master/0447-number-of-boomerangs) |
 ## Bit Manipulation
 |  |
 | ------- |

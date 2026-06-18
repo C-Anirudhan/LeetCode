@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/C-Anirudhan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/C-Anirudhan/LeetCode/tree/master/0704-binary-search) |
+| [0821-shortest-distance-to-a-character](https://github.com/C-Anirudhan/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/C-Anirudhan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/C-Anirudhan/LeetCode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/C-Anirudhan/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/C-Anirudhan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/C-Anirudhan/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/C-Anirudhan/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/C-Anirudhan/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/C-Anirudhan/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window

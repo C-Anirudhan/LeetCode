@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/C-Anirudhan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/C-Anirudhan/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/C-Anirudhan/LeetCode/tree/master/0455-assign-cookies) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/C-Anirudhan/LeetCode/tree/master/0389-find-the-difference) |
 | [0447-number-of-boomerangs](https://github.com/C-Anirudhan/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
 ## Backtracking
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/C-Anirudhan/LeetCode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/C-Anirudhan/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/C-Anirudhan/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/C-Anirudhan/LeetCode/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
 | ------- |

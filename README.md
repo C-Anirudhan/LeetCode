@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/C-Anirudhan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/C-Anirudhan/LeetCode/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/C-Anirudhan/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/C-Anirudhan/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/C-Anirudhan/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/C-Anirudhan/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/C-Anirudhan/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0509-fibonacci-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/C-Anirudhan/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/C-Anirudhan/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/C-Anirudhan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/C-Anirudhan/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->

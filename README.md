@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/C-Anirudhan/LeetCode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/C-Anirudhan/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/C-Anirudhan/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
 | [0447-number-of-boomerangs](https://github.com/C-Anirudhan/LeetCode/tree/master/0447-number-of-boomerangs) |

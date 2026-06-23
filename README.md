@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/C-Anirudhan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/C-Anirudhan/LeetCode/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/C-Anirudhan/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0986-interval-list-intersections](https://github.com/C-Anirudhan/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/C-Anirudhan/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/C-Anirudhan/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/C-Anirudhan/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/C-Anirudhan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/C-Anirudhan/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0986-interval-list-intersections](https://github.com/C-Anirudhan/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/C-Anirudhan/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/C-Anirudhan/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/C-Anirudhan/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/C-Anirudhan/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/C-Anirudhan/LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->

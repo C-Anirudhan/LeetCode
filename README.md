@@ -15,6 +15,7 @@ A collection of LeetCode questions solved.
 | [0119-pascals-triangle-ii](https://github.com/C-Anirudhan/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/C-Anirudhan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/C-Anirudhan/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/C-Anirudhan/LeetCode/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/C-Anirudhan/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0414-third-maximum-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions solved.
 | [0119-pascals-triangle-ii](https://github.com/C-Anirudhan/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/C-Anirudhan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/C-Anirudhan/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/C-Anirudhan/LeetCode/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions solved.
 | [0003-longest-substring-without-repeating-characters](https://github.com/C-Anirudhan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/C-Anirudhan/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/C-Anirudhan/LeetCode/tree/master/0140-word-break-ii) |
 | [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/C-Anirudhan/LeetCode/tree/master/0389-find-the-difference) |
 | [0447-number-of-boomerangs](https://github.com/C-Anirudhan/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
+| [0140-word-break-ii](https://github.com/C-Anirudhan/LeetCode/tree/master/0140-word-break-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +115,7 @@ A collection of LeetCode questions solved.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/C-Anirudhan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/C-Anirudhan/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/C-Anirudhan/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/C-Anirudhan/LeetCode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
@@ -172,6 +177,7 @@ A collection of LeetCode questions solved.
 | ------- |
 | [0070-climbing-stairs](https://github.com/C-Anirudhan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/C-Anirudhan/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/C-Anirudhan/LeetCode/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
@@ -185,4 +191,5 @@ A collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/C-Anirudhan/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/C-Anirudhan/LeetCode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->

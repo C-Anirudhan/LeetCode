@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/C-Anirudhan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/C-Anirudhan/LeetCode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/C-Anirudhan/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/C-Anirudhan/LeetCode/tree/master/0389-find-the-difference) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/C-Anirudhan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/C-Anirudhan/LeetCode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/C-Anirudhan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/C-Anirudhan/LeetCode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/C-Anirudhan/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Recursion

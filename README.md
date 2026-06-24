@@ -70,7 +70,7 @@ A collection of 39 solved LeetCode questions, organized by primary algorithm cat
 | Problem |
 | --- |
 | [0019 - Remove Nth Node From End of List](https://github.com/C-Anirudhan/LeetCode/tree/new/Linked%20List/0019-remove-nth-node-from-end-of-list) |
-| [0083 - Remove Duplicates From Sorted List](https://github.com/C-Anirudhan/LeetCode/tree/new/Linked%20List/0083-remove-duplicates-from-sorted-list) |
+| [0083 - Remove Duplicates from Sorted List](https://github.com/C-Anirudhan/LeetCode/tree/new/Linked%20List/0083-remove-duplicates-from-sorted-list) |
 | [0206 - Reverse Linked List](https://github.com/C-Anirudhan/LeetCode/tree/new/Linked%20List/0206-reverse-linked-list) |
 | [0876 - Middle of the Linked List](https://github.com/C-Anirudhan/LeetCode/tree/new/Linked%20List/0876-middle-of-the-linked-list) |
 

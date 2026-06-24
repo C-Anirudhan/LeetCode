@@ -1,0 +1,206 @@
+:root {
+  --lls-bg: #111318;
+  --lls-panel: #1b1e25;
+  --lls-panel-2: #252a34;
+  --lls-border: #3a414e;
+  --lls-text: #f5f7fa;
+  --lls-muted: #aeb6c4;
+  --lls-accent: #f5a623;
+  --lls-accent-dark: #d88708;
+}
+
+.lls-save-button {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 2147483640;
+  border: 0;
+  border-radius: 999px;
+  padding: 12px 18px;
+  background: var(--lls-accent);
+  color: #16120a;
+  font: 700 14px/1.2 system-ui, sans-serif;
+  box-shadow: 0 10px 28px rgb(0 0 0 / 35%);
+  cursor: pointer;
+}
+
+.lls-save-button:hover {
+  background: #ffb53d;
+}
+
+.lls-save-button:disabled {
+  cursor: wait;
+  opacity: 0.7;
+}
+
+.lls-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2147483646;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: rgb(0 0 0 / 72%);
+  color: var(--lls-text);
+  font-family: system-ui, sans-serif;
+}
+
+.lls-modal {
+  width: min(980px, 96vw);
+  max-height: 92vh;
+  overflow: auto;
+  border: 1px solid var(--lls-border);
+  border-radius: 16px;
+  background: var(--lls-panel);
+  box-shadow: 0 24px 80px rgb(0 0 0 / 55%);
+}
+
+.lls-modal header,
+.lls-modal footer {
+  position: sticky;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 16px 20px;
+  background: var(--lls-panel);
+}
+
+.lls-modal header {
+  top: 0;
+  border-bottom: 1px solid var(--lls-border);
+}
+
+.lls-modal footer {
+  bottom: 0;
+  border-top: 1px solid var(--lls-border);
+  color: var(--lls-muted);
+}
+
+.lls-modal h2,
+.lls-options-panel h1 {
+  margin: 0;
+  color: var(--lls-text);
+}
+
+.lls-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  padding: 20px;
+}
+
+.lls-grid label,
+.lls-options-panel label {
+  display: grid;
+  gap: 6px;
+  color: var(--lls-muted);
+  font-size: 13px;
+  font-weight: 650;
+}
+
+.lls-full {
+  grid-column: 1 / -1;
+}
+
+.lls-modal input,
+.lls-modal select,
+.lls-modal textarea,
+.lls-options-panel input {
+  box-sizing: border-box;
+  width: 100%;
+  border: 1px solid var(--lls-border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  background: var(--lls-panel-2);
+  color: var(--lls-text);
+  font: 14px/1.45 system-ui, sans-serif;
+}
+
+.lls-modal textarea {
+  min-height: 150px;
+  resize: vertical;
+}
+
+.lls-modal .lls-code {
+  min-height: 280px;
+  font-family: Consolas, "Courier New", monospace;
+  tab-size: 4;
+}
+
+.lls-confirm-row {
+  grid-template-columns: auto 1fr !important;
+  align-items: center;
+  color: #ffd27a !important;
+}
+
+.lls-confirm-row input {
+  width: auto;
+}
+
+.lls-status {
+  margin: 0 20px 20px;
+  max-height: 180px;
+  overflow: auto;
+  border-radius: 8px;
+  padding: 12px;
+  background: #0d0f13;
+  color: #c9f7d4;
+  white-space: pre-wrap;
+}
+
+.lls-actions,
+.lls-options-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.lls-modal button,
+.lls-options-panel button {
+  border: 0;
+  border-radius: 8px;
+  padding: 10px 14px;
+  background: var(--lls-accent);
+  color: #16120a;
+  font-weight: 750;
+  cursor: pointer;
+}
+
+.lls-modal .lls-secondary,
+.lls-options-panel .lls-secondary {
+  border: 1px solid var(--lls-border);
+  background: var(--lls-panel-2);
+  color: var(--lls-text);
+}
+
+.lls-options {
+  min-width: 390px;
+  margin: 0;
+  background: var(--lls-bg);
+  color: var(--lls-text);
+  font-family: system-ui, sans-serif;
+}
+
+.lls-options-panel {
+  display: grid;
+  gap: 14px;
+  padding: 20px;
+}
+
+.lls-options-panel pre {
+  min-height: 42px;
+  margin: 0;
+  color: #c9f7d4;
+  white-space: pre-wrap;
+}
+
+@media (max-width: 720px) {
+  .lls-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .lls-full {
+    grid-column: auto;
+  }
+}

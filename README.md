@@ -1,6 +1,6 @@
 # LeetCode
 
-A collection of 39 solved LeetCode questions, organized by primary algorithm category.
+A collection of 40 solved LeetCode questions, organized by primary algorithm category.
 
 ## Backtracking
 
@@ -81,6 +81,7 @@ A collection of 39 solved LeetCode questions, organized by primary algorithm cat
 | [0003 - Longest Substring Without Repeating Characters](https://github.com/C-Anirudhan/LeetCode/tree/new/Sliding%20Window/0003-longest-substring-without-repeating-characters) |
 | [0567 - Permutation in String](https://github.com/C-Anirudhan/LeetCode/tree/new/Sliding%20Window/0567-permutation-in-string) |
 | [1456 - Maximum Number of Vowels in a Substring of Given Length](https://github.com/C-Anirudhan/LeetCode/tree/new/Sliding%20Window/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461 - Maximum Sum Of Distinct Subarrays With Length K](https://github.com/C-Anirudhan/LeetCode/tree/new/Sliding%20Window/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 
 ## Trees and BST
 
